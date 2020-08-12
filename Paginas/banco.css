@@ -1,0 +1,176 @@
+*{
+	margin: 0px;
+}
+
+main{
+	margin: auto;
+	height: 780px;
+	width: 850px;
+	margin-top: 20px;
+}
+
+header{
+	height: 120px;
+	width: 850px;
+}
+
+nav{
+	background-color: #FFBD16;
+	height: 60px;
+	width: 850px;
+	margin-bottom: 15px;
+	border-radius: 0px 0px 20px 20px;
+}
+
+ul{
+	padding-top: 15px;
+}
+
+li{
+	display: inline;
+	padding-right: 77px;
+}
+
+
+aside{
+	height: 490px;
+	width: 283px;
+	margin-bottom: 15px;
+	float: left;
+}
+
+#menu{
+	list-style: none;
+}
+
+section{
+	height: 490px;
+	width: 545px;
+	margin-left: 15px;
+	margin-bottom: 15px;
+	float: right;
+}
+
+footer{
+	background-color: #232323;
+  color: #A4A4A4;
+	border-radius: 0px 0px 20px 20px;
+	margin-bottom: 10px;
+	height: 80px;
+	width: 850px;
+	clear: both;
+}
+
+
+header img{
+	height: 100%;
+	width: 100%;
+	border-radius: 15px 15px 0px 0px;
+}
+
+p{
+	padding-top: 12px;
+}
+
+#contactos{
+	margin-top: 15px
+}
+
+.seccion{
+	background-color: #E9E7E8;
+	float: left;
+	border-radius: 20px 0px 0px 0px;
+	height: 235px;
+	width: 262px;
+}
+
+.seccion1{
+	background-color: #E9E7E8;
+	float: right;
+	border-radius: 20px 0px 0px 0px;
+	height: 235px;
+	width: 262px;
+}
+
+.seccion2{
+	background-color: #E9E7E8;
+	float: left;
+	border-radius: 0px 0px 0px 20px;
+	height: 236px;
+	width: 262px;
+	margin-top: 15px;
+}
+
+.seccion3{
+	background-color: #E9E7E8;
+	float: right;
+    border-radius: 0px 0px 20px 0px;
+	height: 236px;
+	width: 262px;
+	margin-top: 15px;
+}
+
+.ingreso{
+	background-color: #B2B2B2;
+	margin-bottom: 15px;
+	height: 230px;
+	width: 100%;
+	border-radius: 15px 15px 0px 0px;
+}
+
+.aparte1{
+	background-color: #232323;
+	height: 241px;
+	width: 100%;
+	display: block;
+}
+
+.titulo{
+	background-color: #141414;
+	color: white;
+	padding-top: 10px;
+	width: 100%;
+	height: 30px;
+}
+
+.lista{
+	color: #B1B1B1;
+	list-style: none;
+	margin-left: 16px;
+}
+
+.dato{
+	padding-top: 17px;
+   font-size: larger;
+
+}
+
+.textos{
+	display: block;
+	color: #B1B1B1;
+	margin-top: 3px;
+}
+
+button{
+	background-color: #FFBD16;
+	margin-top: 18px;
+	border-radius:6px;
+	width: 80px;
+}
+
+article img{
+	margin-top: 10px;
+	height: 110px;
+	width: 70px:;
+}
+
+.letra{
+	padding: 0px 10px 10px 10px;
+	font-size: 12px;
+	text-align: justify;
+}
+
+input{
+  width:150px;
+  height:18px;
+}
